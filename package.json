@@ -1,0 +1,19 @@
+{
+  "name": "tcg-react",
+  "version": "1.0.0",
+  "description": "card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "keywords": [
+    "game",
+    "card"
+  ],
+  "author": "ETERNNOOB",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
